@@ -4,39 +4,39 @@ atividade do basic traning liferay
 ### testando as linhas de afastamento.
 ---
 ###  testando linhas de citacoes
-> Citacao 1
+> teste
 > 
-> Citacao 2
+> teste
 > 
->> Citacao 3
+>> teste
 ---
 > ##### Os resultados trimestrais parecem otimos!
 > 
-> - A receita estava fora do grafico.
-> - os lucros foram maiores do que nunca.
+> - nossa.
+> - nossa.
 > 
-> *Tudo* esta indo **bem**.
-1. Primeiro intem
-2. Segundo item
-3. Terceiro item
-    1. Indentado item
-    2. Indentado item
+> *chico* esta indo **lola**.
+1. first
+2. second
+3. three
+    1.  item
+    2.  item
 4. Quarto item
-- [ ] Isso e uma CheckBox nao marcada
-- [x] Isso e uma CheckBox marcada 
+- [ ] CheckBox nao marcada
+- [x] CheckBox marcada 
 
-` este é um exemplo `
+` coments `
 
 ~~~
-Aqui estou colocando uma frase para testar essa funcao
+testando
 ~~~
 
  
- Clique [aqui](https://github.com) para acessar à página do GitHub.
+ Clique [aqui](https://github.com) para acessar GitHub.
  
  ---
 
-# Adicionando imagens!
+# imagens!
 
 [![Alt ou título da imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1ob2rkimkwJ8Z4Va9_Ng7V3m1xUyuad6Y0YgSqgQwrlpg-RaBQbdtFjUxzh0IszibrE&usqp=CAU)](https://www.ipb.org.br/)
 
